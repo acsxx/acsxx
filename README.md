@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali,
-- 👀 I’m interested in Web Development,
-- 🌱 I’m currently learning Javascript(ReactJS, NodeJS), Web Services, Network Devices(Router, Switch, Firewall etc.).
-- 💞️ I’m the senior student(4th) on Computer Engineering.
+- 💞️ I’m a Computer Engineer.
+- 👀 I’m interested in Web & Software Development,
+- 🌱 I’m currently working with Javascript(ReactJS, NodeJS), Web Services etc...
 - 📫 How to reach me => 
-  Linkedin : www.linkedin.com/in/ali-çelik-740033155/
+  Linkedin : https://www.linkedin.com/in/alicelik99/
   Discord : acsx#8808
